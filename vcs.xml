@@ -10,6 +10,10 @@
           <option name="url" value="https://github.com/91springboard/online-plan-portal.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://255_255_255_255@bitbucket.org/255_255_255_255/g20static.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/WebstormProjects" />
